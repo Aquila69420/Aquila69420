@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Aquila69420
-- 👀 I’m interested in Software and App Development (Full Stack Desktop), Databases, Data Structures and Algorithms, Artificial Intelligence, Computer Architecture and Cyber Security
-- 🌱 I’m currently learning Java and know Python and SQL
 - 💞️ I’m looking to collaborate on any projects or learning based internships
 
 
